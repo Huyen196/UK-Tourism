@@ -3,7 +3,8 @@
 
 Source: Pexels
 
-Tourism is a crucial part of the global economy, generating significant revenue and creating employment opportunities.
+Tourism is a crucial part of the global economy, generating significant revenue and creating employment opportunities. VisitBritain Director Patricia Yates said: “Tourism is one of the UK's most valuable export industries. It is also a fiercely competitive global industry and these results not only demonstrate Britain’s continued ability to compete internationally for visitors, they are testament to tourism’s importance as a driver of economic growth.
+
 ## Dataset
 
 **Source**: Public dataset from UK Goverment website (https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/travelpac)
@@ -28,11 +29,13 @@ This dataset contains 150,117 observations for a UK residents and Overseas resid
 - Nights: Nights relates to the total number of nights spent whilst on a visit.
 - Spend: Spend shows the total expenditure made abroad (for UK residents) or in the UK (for overseas residents) during the visit. 
 
+## Data exploration
+  
+### Exploratory Data Analysis (EDA)
 
-  
-  
- 
- 
+![image](https://github.com/user-attachments/assets/6d5059fc-5b9e-4ea7-9a46-918e59e70ca8)
+
+ The line graph gives the information about the number of round-trip of oversea residents (travel to UK) and UK rersidents (travel to another countries) in 6 years from 2018 to 2023. 2018 and 2019 are two years which have the highest number of visits (respectively 91M and 93M). 
  
   
   
