@@ -33,12 +33,17 @@ This dataset contains 150,117 observations for a UK residents and Overseas resid
   
 ### Exploratory Data Analysis (EDA)
 
-![image](https://github.com/user-attachments/assets/6d5059fc-5b9e-4ea7-9a46-918e59e70ca8)
+![image](https://github.com/user-attachments/assets/92fa8969-47b5-40e9-89c4-fa97cfed13a1)
 
- The line graph gives the information about the number of round-trip of oversea residents (travel to UK) and UK rersidents (travel to another countries) in 6 years from 2018 to 2023. 2018 and 2019 are two years which have the highest number of visits (respectively 91M and 93M). 
+
+ The graphs give the information about the number of round-trip of oversea residents (travel to UK) and UK rersidents (travel to another countries) in 6 years from 2018 to 2023. 2018 and 2019 are two years which have the highest number of visits (respectively 91M and 93M). 
  
   
-  
-  
+![image](https://github.com/user-attachments/assets/3b27e4a0-579a-4189-a1a4-3faf9cce8e3d)
+
+
+![image](https://github.com/user-attachments/assets/ec958b79-82cb-40b2-85f6-5a2ef4b5e576)
+
   
 
+![image](https://github.com/user-attachments/assets/ba3e10cd-2ac3-439c-a01f-7e898b057134)
