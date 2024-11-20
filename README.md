@@ -40,7 +40,9 @@ The graphs give the information about the number of round-trip of oversea reside
 
 Clearly,the the visits of UK residents to another conuntries were higher and more than 2 times as the oversea residents . In 2019, the number increased slightly and reached a peak at 93 million visits. However, in next 2 years (2020 and 2021), because of effecting Covid-19 pademic and shut down policy, it was drecrease dramatically for both of them (UK residents dropped from 93M to 14M and oversea residents falled from 41M to 7M in 2020). After Covid-19, the situation has changed. Until 2023, the numeber of visits increased sharply and nearly with the number of visits in 2019.
 
-In the second graph, it is clearly to see that the total visits of UK residents and oversea residents in each quater. 
+In the second graph, it is clearly to see that the total visits of UK residents and oversea residents in each quater. In general, the number of visits in 4 quaters are not too much different. People tend to travel from April to September, especially in quater 3 (July-Sep) with .....
+
+Khoảng thời gian tháng 1 đến tháng 3 là khoảng thời gian mọi người ít đi du lịch hơn so với những khoảng thời gian khác trong năm. Đến năm 2020, số lượng khách đi du lịch chỉ có ở 3 tháng đầu năm.Sau tháng 3-2020,tất cả mọi người đều phải thực hiện theo chính sách giãn cách xã hội nên không ghi nhận được số lần du lịch. Đến năm 2021,tình hình khả quan hơn và số lượng người đi du lịch đã tăng nhẹ vào 6 tháng cuối năm. Đến năm 2022 và 2023, những con số đã tăng lên 1 cách nhanh chóng và mạnh mẽ. Cũng giống những năm trước, số lượng người đi du lịch vẫn tập trung nhiều ở 6 tháng cuối năm. Số lượng khách du lịch trong quý 1 và quý 2 tăng khá nhanh, trong khi đó số lượng của quý 4 lại có dấu hiệu giảm.
  
   
 ![image](https://github.com/user-attachments/assets/3b27e4a0-579a-4189-a1a4-3faf9cce8e3d)
