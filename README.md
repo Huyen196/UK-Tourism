@@ -36,7 +36,11 @@ This dataset contains 150,117 observations for a UK residents and Overseas resid
 ![image](https://github.com/user-attachments/assets/92fa8969-47b5-40e9-89c4-fa97cfed13a1)
 
 
- The graphs give the information about the number of round-trip of oversea residents (travel to UK) and UK rersidents (travel to another countries) in 6 years from 2018 to 2023. 2018 and 2019 are two years which have the highest number of visits (respectively 91M and 93M). 
+The graphs give the information about the number of round-trip of oversea residents (travel to UK) and UK rersidents (travel to another countries) in 6 years from 2018 to 2023. 2018 and 2019 are two years which have the highest number of visits (respectively 91M and 93M). 
+
+Clearly,the the visits of UK residents to another conuntries were higher and more than 2 times as the oversea residents . In 2019, the number increased slightly and reached a peak at 93 million visits. However, in next 2 years (2020 and 2021), because of effecting Covid-19 pademic and shut down policy, it was drecrease dramatically for both of them (UK residents dropped from 93M to 14M and oversea residents falled from 41M to 7M in 2020). After Covid-19, the situation has changed. Until 2023, the numeber of visits increased sharply and nearly with the number of visits in 2019.
+
+In the second graph, it is clearly to see that the total visits of UK residents and oversea residents in each quater. 
  
   
 ![image](https://github.com/user-attachments/assets/3b27e4a0-579a-4189-a1a4-3faf9cce8e3d)
