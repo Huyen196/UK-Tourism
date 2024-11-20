@@ -43,7 +43,7 @@ Clearly, the visits of UK residents to other countries were higher and more than
 From January to March is a period when people travel less compared to other times of the year. By 2020, the number of travelers was only recorded in the first three months. After March 2020, everyone had to adhere to social distancing measures, so travel occurrences were not documented. In 2021, the situation improved, and the number of travelers slightly increased in the last six months of the year. In 2022 and 2023, the numbers increased rapidly and significantly. Similar to previous years, the majority of travelers are still concentrated in the last six months of the year. The number of travelers in the first and second quarters increased quite rapidly, while there were signs of a decrease in the fourth quarter.
  
   
-![image](https://github.com/user-attachments/assets/3b27e4a0-579a-4189-a1a4-3faf9cce8e3d)
+![image](https://github.com/user-attachments/assets/e58279aa-6c1e-447d-a201-c54ccfbd27a6)
 
 
 ![image](https://github.com/user-attachments/assets/ec958b79-82cb-40b2-85f6-5a2ef4b5e576)
