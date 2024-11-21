@@ -49,6 +49,6 @@ Có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể
 
 ![image](https://github.com/user-attachments/assets/ec958b79-82cb-40b2-85f6-5a2ef4b5e576)
 
-  
+Top những lí do họ chọn để đi đến nơi khác bao gồm:... Trong đó VFR chiếm số lượng nhiều nhất vs 34.62% ở oversea residents và ... ở UK residents. Đứng thứ 2 là holiday với 31.94%
 
 ![image](https://github.com/user-attachments/assets/ba3e10cd-2ac3-439c-a01f-7e898b057134)
