@@ -45,6 +45,7 @@ From January to March is a period when people travel less compared to other time
   
 ![image](https://github.com/user-attachments/assets/e58279aa-6c1e-447d-a201-c54ccfbd27a6)
 
+Có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể thấy được việc di chuyển bằng máy bay được lựa chọn nhiều hơn hẳn những loại phương tiện di chuyển khác, chiếm khoảng 80% đối với du khách nước ngoài và 83% đối với UK residents. Số lượng đi du lịch bằng thuyền và bằng xe chỉ chiếm 1 phần nhỏ (nhỏ hơn hoặc bằng 10%).
 
 ![image](https://github.com/user-attachments/assets/ec958b79-82cb-40b2-85f6-5a2ef4b5e576)
 
