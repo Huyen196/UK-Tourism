@@ -47,8 +47,11 @@ From January to March is a period when people travel less compared to other time
 
 Có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể thấy được việc di chuyển bằng máy bay được lựa chọn nhiều hơn hẳn những loại phương tiện di chuyển khác, chiếm khoảng 80% đối với du khách nước ngoài và 83% đối với UK residents. Số lượng đi du lịch bằng thuyền và bằng xe chỉ chiếm 1 phần nhỏ (nhỏ hơn hoặc bằng 10%).
 
-![image](https://github.com/user-attachments/assets/ec958b79-82cb-40b2-85f6-5a2ef4b5e576)
+![image](https://github.com/user-attachments/assets/ebfbf9e2-599d-4924-bd80-5c0f30ccc045)
+
 
 Top những lí do họ chọn để đi đến nơi khác bao gồm:... Trong đó VFR chiếm số lượng nhiều nhất vs 34.62% ở oversea residents và ... ở UK residents. Đứng thứ 2 là holiday với 31.94%
 
-![image](https://github.com/user-attachments/assets/ba3e10cd-2ac3-439c-a01f-7e898b057134)
+Age:
+![image](https://github.com/user-attachments/assets/ea4022b7-461f-4c0c-86d2-019530cf4e40)
+
