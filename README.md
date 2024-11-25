@@ -55,3 +55,7 @@ Nhìn chung,lí do để đi du lịch của oversea residents và UK residents 
 Age:
 ![image](https://github.com/user-attachments/assets/ea4022b7-461f-4c0c-86d2-019530cf4e40)
 
+Country:
+
+![image](https://github.com/user-attachments/assets/4175225e-0143-40aa-a438-ae972e065585)
+
