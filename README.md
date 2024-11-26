@@ -50,6 +50,8 @@ số lượng nam giới có xu hướng đi du lịch nhiều hơn là nữ gi�
 
 ![image](https://github.com/user-attachments/assets/ebfbf9e2-599d-4924-bd80-5c0f30ccc045)
 
+![image](https://github.com/user-attachments/assets/0b3a6590-2863-43e7-bd64-fbf100ac8bc1)
+
 Nhìn chung,lí do để đi du lịch của oversea residents và UK residents khá giống nhau. 3 lí do chính của cả 2 là: visit relative and friends (VFR), holiday and bussiness. Đối với oversea residents, VFR là lí do được lựa chọn nhiều nhất, chiếm tới....%, kế đến là holiday với và cuối cùng là bussiness. 
 
 Age:
@@ -58,4 +60,11 @@ Age:
 Country:
 
 ![image](https://github.com/user-attachments/assets/4175225e-0143-40aa-a438-ae972e065585)
+
+Duration stay:
+
+![image](https://github.com/user-attachments/assets/2c3a6704-81cd-40db-8e19-8ae84a6bcbc6)
+
+
+
 
