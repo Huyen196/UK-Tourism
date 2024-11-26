@@ -33,8 +33,9 @@ This dataset contains 150,117 observations for a UK residents and Overseas resid
   
 ### Exploratory Data Analysis (EDA)
 
-![image](https://github.com/user-attachments/assets/63581276-0594-49dd-894f-a019abf9d42c)
+![image](https://github.com/user-attachments/assets/b79163a7-1108-4ad6-ae67-e8bfbb44d4b3)
 
+![image](https://github.com/user-attachments/assets/63581276-0594-49dd-894f-a019abf9d42c)
 
 The graphs provide information about the number of round trips made by overseas residents traveling to the UK and UK residents traveling to other countries over a span of 6 years from 2018 to 2023. 2018 and 2019 stand out as the two years with the highest number of visits, with 91 million and 93 million visits respectively.
 
@@ -65,6 +66,9 @@ Duration stay:
 
 ![image](https://github.com/user-attachments/assets/2c3a6704-81cd-40db-8e19-8ae84a6bcbc6)
 
+Total spend
+
+![image](https://github.com/user-attachments/assets/92ad5e32-cb5c-42a4-9993-25dd8242e2ad)
 
 
 
