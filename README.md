@@ -43,6 +43,11 @@ Clearly, the visits of UK residents to other countries were higher and more than
 
 From January to March is a period when people travel less compared to other times of the year. By 2020, the number of travelers was only recorded in the first three months. After March 2020, everyone had to adhere to social distancing measures, so travel occurrences were not documented. In 2021, the situation improved, and the number of travelers slightly increased in the last six months of the year. In 2022 and 2023, the numbers increased rapidly and significantly. Similar to previous years, the majority of travelers are still concentrated in the last six months of the year. The number of travelers in the first and second quarters increased quite rapidly, while there were signs of a decrease in the fourth quarter.
 
+Total spend
+
+![image](https://github.com/user-attachments/assets/360fd3ef-986b-409c-b382-e2c40bf51026)
+
+
  ![image](https://github.com/user-attachments/assets/2f549b3a-2e4a-4842-85ae-2359db0caa2e)
 
 Có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể thấy được việc di chuyển bằng máy bay được lựa chọn nhiều hơn hẳn những loại phương tiện di chuyển khác, chiếm khoảng 80% đối với du khách nước ngoài và 83% đối với UK residents. Số lượng đi du lịch bằng thuyền và bằng xe chỉ chiếm 1 phần nhỏ (nhỏ hơn hoặc bằng 10%).
@@ -66,9 +71,7 @@ Duration stay:
 
 ![image](https://github.com/user-attachments/assets/2c3a6704-81cd-40db-8e19-8ae84a6bcbc6)
 
-Total spend
 
-![image](https://github.com/user-attachments/assets/92ad5e32-cb5c-42a4-9993-25dd8242e2ad)
 
 
 
