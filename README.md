@@ -37,6 +37,8 @@ This dataset contains 150,117 observations for a UK residents and Overseas resid
 
 ![image](https://github.com/user-attachments/assets/63581276-0594-49dd-894f-a019abf9d42c)
 
+Trong vòng 5 năm (từ 2018 đến 2023) tổng số lượt inbound and outbound của UK là 529.32 triệu lượt. Số lượt du khách nước ngoài đến UK khoảng gần 161.78 triệu, trong khi đó số lượng người dân nước Anh đi du lịch gấp đôi số lượng du khách nước ngoài với 367.55 triệu lượt. Có thể thấy được nhu cầu đi du lịch của người dân UK khá cao, có thể thấy rõ ràng trong biểu đồ lỉne graph về số lượng lượt du lịch của cả oversea và UK residents qua từng năm. 
+
 The graphs provide information about the number of round trips made by overseas residents traveling to the UK and UK residents traveling to other countries over a span of 6 years from 2018 to 2023. 2018 and 2019 stand out as the two years with the highest number of visits, with 91 million and 93 million visits respectively.
 
 Clearly, the visits of UK residents to other countries were higher and more than 2 times those of overseas residents. In 2019, the number increased slightly and reached a peak at 93 million visits. However, in the next two years (2020 and 2021), due to the effects of the Covid-19 pandemic and shutdown policies, there was a dramatic decrease for both groups (UK residents dropped from 93 million to 14 million, and overseas residents fell from 41 million to 7 million in 2020). After Covid-19, the situation changed. By 2023, the number of visits increased sharply and nearly matched the number of visits in 2019.
