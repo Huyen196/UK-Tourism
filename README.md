@@ -54,9 +54,9 @@ Total spend
 
  Doanh thu của ngành du lịch ở UK là 389.59 tỉ bảng anh. Số tiền bao gồm doanh thu từ oversea là 120.12 tỉ và từ Uk residents là 269.47 tỉ.
 
-Có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể thấy được việc di chuyển bằng máy bay được lựa chọn nhiều hơn hẳn những loại phương tiện di chuyển khác, chiếm khoảng 80% đối với du khách nước ngoài và 83% đối với UK residents. Số lượng đi du lịch bằng thuyền và bằng xe chỉ chiếm 1 phần nhỏ (nhỏ hơn hoặc bằng 10%).
+Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể thấy được việc di chuyển bằng máy bay được lựa chọn nhiều hơn hẳn những loại phương tiện di chuyển khác, chiếm khoảng 80% đối với du khách nước ngoài và 83% đối với UK residents. Số lượng đi du lịch bằng thuyền và bằng xe chỉ chiếm 1 phần nhỏ (nhỏ hơn hoặc bằng 10%).
 
-số lượng nam giới có xu hướng đi du lịch nhiều hơn là nữ giới (56% với nam và 44% với nữ).Đa số họ chọn du lịch tự túc nhiều hơn là qua 1 bên thứ 3 (travel agent). Với nam giới, tỉ lệ họ chọn đi du lịch tự túc là 46%, trong khi đó lựa chọn đi du lịch qua các tour du lịch chỉ chiếm có 10%. Điều này cũng xảy ra tương tự với bên nữ giới. Tỉ lệ chọn du lịch tự túc của họ cũng cao hơn hẳn so với du lịch ko tự túc và cao gấp... lần.
+Ở phần biểu đồ bên phải thể hiện số lượng đi du lịch theo giới tính và loại hình dịch vụ du lịch họ chọn. Có thể dễ dàng thấy được rằng số lượng nam giới có xu hướng đi du lịch nhiều hơn là nữ giới (56% với nam và 44% với nữ).Đa số họ chọn du lịch tự túc nhiều hơn là qua 1 bên thứ 3 (travel agent). Với nam giới, tỉ lệ họ chọn đi du lịch tự túc là 46%, trong khi đó lựa chọn đi du lịch qua các tour du lịch chỉ chiếm có 10%. Điều này cũng xảy ra tương tự với bên nữ giới. Tỉ lệ chọn du lịch tự túc của họ cũng cao hơn hẳn so với du lịch ko tự túc và cao gấp 5,2 lần của nữ giới và 4,6 lần của nam giới                              .
 
 ![image](https://github.com/user-attachments/assets/ebfbf9e2-599d-4924-bd80-5c0f30ccc045)
 
