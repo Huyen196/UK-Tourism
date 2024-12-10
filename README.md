@@ -62,10 +62,9 @@ Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di ch
 
 Nhìn chung,lí do để đi du lịch của oversea residents và UK residents khá giống nhau. 3 lí do chính của cả 2 là: holiday (38.42%), visit relative and friends (VFR) (35.31%) and bussiness (15.87%). 
 
-Với gần 26,000 lượt lựa chọn, VFR là lí do được lựa chọn nhiều nhất của oversea residents, kế đến là holiday ( khoảng 24,000) và cuối cùng là bussiness ( khoảng 13,700). 
+Với gần 26,000 lượt lựa chọn, VFR là lí do được lựa chọn nhiều nhất của oversea residents, kế đến là holiday ( khoảng 24,000) và cuối cùng là bussiness ( khoảng 13,700). Còn với UK residents thì holiday mới là lí do họ du lịch nhiều nhất qua những nước khác (khoảng 33,600), tiếp đến là VFR với 27,000 và business là hơn 100,000. Bên cạnh đó cũng có những lí do khác tương tự ở cả 2 bên như: miscellaneous and study. Riêng đối với oversea thì UK là nơi để họ có thể đổi chuyến bay (transit).
 
-![image](https://github.com/user-attachments/assets/bbcb2347-ba48-4e3c-bab2-9f2b96df8cc8)
-
+![image](https://github.com/user-attachments/assets/b337e7e7-cff5-41dc-a920-2b04344ef562)
 
 
 
