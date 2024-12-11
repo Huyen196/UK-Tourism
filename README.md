@@ -68,11 +68,13 @@ Similarly to inbound, outbound travel from the UK also shows a decreasing trend.
 
 Nhìn chung,lí do để đi du lịch của oversea residents và UK residents khá giống nhau. 3 lí do chính của cả 2 là: holiday (38.42%), visit relative and friends (VFR) (35.31%) and bussiness (15.87%). 
 
-Với gần 26,000 lượt lựa chọn, VFR là lí do được lựa chọn nhiều nhất của oversea residents, kế đến là holiday ( khoảng 24,000) và cuối cùng là bussiness ( khoảng 13,700). Còn với UK residents thì holiday mới là lí do họ du lịch nhiều nhất qua những nước khác (khoảng 33,600), tiếp đến là VFR với 27,000 và business là hơn 100,000. Bên cạnh đó cũng có những lí do khác tương tự ở cả 2 bên như: miscellaneous and study. Riêng đối với oversea thì UK cũng là nơi để họ có thể đổi chuyến bay (transit).
+Với gần 26,000 lượt lựa chọn, VFR là lí do được lựa chọn nhiều nhất của oversea residents, kế đến là holiday ( khoảng 24,000) và cuối cùng là bussiness ( khoảng 13,700). Còn với UK residents thì holiday mới là lí do họ du lịch nhiều nhất (khoảng 33,600), tiếp đến là VFR với 27,000 và business là hơn 100,000. Bên cạnh đó cũng có những lí do khác tương tự ở cả 2 bên như: miscellaneous and study. Riêng đối với oversea thì UK cũng là nơi để họ có thể đổi chuyến bay (transit).
 
 ![image](https://github.com/user-attachments/assets/b337e7e7-cff5-41dc-a920-2b04344ef562)
 
-Nhìn vào 2 bảng dữ liệu trên, ta có thể thấy rõ ràng hơn sự thay đổi của số đêm cũng như số tiền họ tiêu cho chuyến đi của mình qua 2 lí do được lựa chọn nhiều nhất trong 2 năm 2018 và 2023. Đối với oversea, nhìn chung, trong vòng 5 năm, mọi yếu tố đều có xu hướng giảm. Số đêm trung bình cho 1 chuyến đi của 
+Nhìn vào 2 bảng dữ liệu trên, ta có thể thấy rõ ràng hơn sự thay đổi của số đêm cũng như số tiền họ tiêu cho chuyến đi của mình qua 2 lí do được lựa chọn nhiều nhất trong 2 năm 2018 và 2023. Đối với inbound, nhìn chung, trong vòng 5 năm, mọi yếu tố đều có xu hướng giảm. Số đêm trung bình cho 1 chuyến đi holiday giảm nhẹ, kéo theo AVG spend per night và AVG spend per visit cũng giảm theo. Đối với VFR, AVG night per visit và AVG spend per visit cũng có xu hướng giảm nhưng số tiền trung bình chi ra cho 1 đêm lại tăng lên (from 76.93 to 88.57). Mặc số lượng người đến UK để thăm người thân nhiều hơn là mục đích du lịch, nhưng the AVG spend per visit của holiday cao hơn so với VFR và của any purpose.
+
+Trái ngược với inbound, những chỉ số của outbound lại có xu hương tăng lên. 
 
 Age:
 ![image](https://github.com/user-attachments/assets/ea4022b7-461f-4c0c-86d2-019530cf4e40)
