@@ -56,7 +56,10 @@ Total spend
 
 Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể thấy được việc di chuyển bằng máy bay được lựa chọn nhiều hơn hẳn những loại phương tiện di chuyển khác, chiếm khoảng 80% đối với du khách nước ngoài và 83% đối với UK residents. Số lượng đi du lịch bằng thuyền và bằng xe chỉ chiếm 1 phần nhỏ (nhỏ hơn hoặc bằng 10%).
 
-Ở phần biểu đồ bên phải thể hiện số lượng đi du lịch theo giới tính và loại hình dịch vụ du lịch họ chọn. Có thể dễ dàng thấy được rằng số lượng nam giới có xu hướng đi du lịch nhiều hơn là nữ giới (56% với nam và 44% với nữ).Đa số họ chọn du lịch tự túc nhiều hơn là qua 1 bên thứ 3 (travel agent). Với nam giới, tỉ lệ họ chọn đi du lịch tự túc là 46%, trong khi đó lựa chọn đi du lịch qua các tour du lịch chỉ chiếm có 10%. Điều này cũng xảy ra tương tự với bên nữ giới. Tỉ lệ chọn du lịch tự túc của họ cũng cao hơn hẳn so với du lịch ko tự túc và cao gấp 5,2 lần của nữ giới và 4,6 lần của nam giới                              .
+Ở phần biểu đồ bên phải thể hiện số lượng đi du lịch theo giới tính và loại hình dịch vụ du lịch họ chọn. Có thể dễ dàng thấy được rằng số lượng nam giới có xu hướng đi du lịch nhiều hơn là nữ giới (56% với nam và 44% với nữ).Đa số họ chọn du lịch tự túc nhiều hơn là qua 1 bên thứ 3 (travel agent). Với nam giới, tỉ lệ họ chọn đi du lịch tự túc là 46%, trong khi đó lựa chọn đi du lịch qua các tour du lịch chỉ chiếm có 10%. Điều này cũng xảy ra tương tự với bên nữ giới. Tỉ lệ chọn du lịch tự túc của họ cũng cao hơn hẳn so với du lịch ko tự túc và cao gấp 5,2 lần của nữ giới và 4,6 lần của nam giới.
+
+![image](https://github.com/user-attachments/assets/bb81e082-625d-470b-b5f1-f55164c05c37)
+
 
 ![image](https://github.com/user-attachments/assets/ebfbf9e2-599d-4924-bd80-5c0f30ccc045)
 
@@ -66,7 +69,7 @@ Với gần 26,000 lượt lựa chọn, VFR là lí do được lựa chọn nh
 
 ![image](https://github.com/user-attachments/assets/b337e7e7-cff5-41dc-a920-2b04344ef562)
 
-Nhìn vào 2 bảng dữ liệu trên, ta có thể thấy rõ ràng hơn sự thay đổi của số đêm cũng như số tiền họ tiêu cho chuyến đi của mình qua 2 lí do được lựa chọn nhiều nhất trong 2 năm 2018 và 2023. Đối với oversea, nhìn chung, trong vòng 5 năm, mọi yếu tố đều có xu hướng giảm. Số đêm trung bình cho 1 chuyến 
+Nhìn vào 2 bảng dữ liệu trên, ta có thể thấy rõ ràng hơn sự thay đổi của số đêm cũng như số tiền họ tiêu cho chuyến đi của mình qua 2 lí do được lựa chọn nhiều nhất trong 2 năm 2018 và 2023. Đối với oversea, nhìn chung, trong vòng 5 năm, mọi yếu tố đều có xu hướng giảm. Số đêm trung bình cho 1 chuyến đi của 
 
 Age:
 ![image](https://github.com/user-attachments/assets/ea4022b7-461f-4c0c-86d2-019530cf4e40)
