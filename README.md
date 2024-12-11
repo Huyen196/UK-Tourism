@@ -58,8 +58,9 @@ Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di ch
 
 Ở phần biểu đồ bên phải thể hiện số lượng đi du lịch theo giới tính và loại hình dịch vụ du lịch họ chọn. Có thể dễ dàng thấy được rằng số lượng nam giới có xu hướng đi du lịch nhiều hơn là nữ giới (56% với nam và 44% với nữ).Đa số họ chọn du lịch tự túc nhiều hơn là qua 1 bên thứ 3 (travel agent). Với nam giới, tỉ lệ họ chọn đi du lịch tự túc là 46%, trong khi đó lựa chọn đi du lịch qua các tour du lịch chỉ chiếm có 10%. Điều này cũng xảy ra tương tự với bên nữ giới. Tỉ lệ chọn du lịch tự túc của họ cũng cao hơn hẳn so với du lịch ko tự túc và cao gấp 5,2 lần của nữ giới và 4,6 lần của nam giới.
 
-![image](https://github.com/user-attachments/assets/bb81e082-625d-470b-b5f1-f55164c05c37)
+![image](https://github.com/user-attachments/assets/6051cb4e-2c69-404f-adb8-295f1c5113fe)
 
+Inbound visits in 2023 remained below 2019 levels but the number of nights stayed equalled 2018 levels. The number of visits in 2023 was 8.9% down on pre-pandemic levels, while the volume of international visitor nights was higher than 2018. Visitor spend was higher in 2023 than in 2018, but in real terms fell by 10% compared with 2018 when inflation is taken into account.        
 
 ![image](https://github.com/user-attachments/assets/ebfbf9e2-599d-4924-bd80-5c0f30ccc045)
 
@@ -77,6 +78,8 @@ Age:
 Country:
 
 ![image](https://github.com/user-attachments/assets/4175225e-0143-40aa-a438-ae972e065585)
+
+The top inbound market for visits and spend was the USA, which surpassed pre-pandemic visit levels by 14%. Other key markets were France, Germany, the Irish Republic and Spain, but these all remained below 2019 visit levels. In total, visits from Europe accounted for 65% of total inbound visits to the UK.
 
 Duration stay:
 
