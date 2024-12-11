@@ -37,7 +37,7 @@ This dataset contains 150,117 observations for a UK residents and Overseas resid
 
 ![image](https://github.com/user-attachments/assets/63581276-0594-49dd-894f-a019abf9d42c)
 
-Trong vòng 5 năm (từ 2018 đến 2023) tổng số lượt inbound and outbound của UK là 529.32 triệu lượt. Số lượt du khách nước ngoài đến UK khoảng gần 161.78 triệu, trong khi đó số lượng người dân nước Anh đi du lịch gấp đôi số lượng du khách nước ngoài với 367.55 triệu lượt. Có thể thấy được nhu cầu đi du lịch của người dân UK khá cao, có thể thấy rõ ràng trong biểu đồ lỉne graph về số lượng lượt du lịch của cả oversea và UK residents qua từng năm. 
+Trong vòng 5 năm (từ 2018 đến 2023) tổng số lượt inbound and outbound của UK là 529.32 triệu lượt. Số lượt du khách nước ngoài đến UK (Inbound) khoảng gần 161.78 triệu, trong khi đó số lượng người dân nước Anh đi du lịch (Outbound) gấp đôi số lượng du khách nước ngoài với 367.55 triệu lượt. Có thể thấy được nhu cầu đi du lịch của người dân UK khá cao, có thể thấy rõ ràng trong biểu đồ lỉne graph về số lượng lượt du lịch của cả oversea và UK residents qua từng năm. 
 
 The graphs provide information about the number of round trips made by overseas residents traveling to the UK and UK residents traveling to other countries over a span of 6 years from 2018 to 2023. 2018 and 2019 stand out as the two years with the highest number of visits, with 91 million and 93 million visits respectively.
 
@@ -52,7 +52,7 @@ Total spend
 
  ![image](https://github.com/user-attachments/assets/2f549b3a-2e4a-4842-85ae-2359db0caa2e)
 
- Doanh thu của ngành du lịch ở UK là 389.59 tỉ bảng anh. Số tiền bao gồm doanh thu từ oversea là 120.12 tỉ và từ Uk residents là 269.47 tỉ.
+ Doanh thu của ngành du lịch ở UK là 389.59 tỉ bảng anh. Số tiền bao gồm doanh thu từ inbound là 120.12 tỉ và từ outbound là 269.47 tỉ.
 
 Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể thấy được việc di chuyển bằng máy bay được lựa chọn nhiều hơn hẳn những loại phương tiện di chuyển khác, chiếm khoảng 80% đối với du khách nước ngoài và 83% đối với UK residents. Số lượng đi du lịch bằng thuyền và bằng xe chỉ chiếm 1 phần nhỏ (nhỏ hơn hoặc bằng 10%).
 
@@ -60,7 +60,9 @@ Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di ch
 
 ![image](https://github.com/user-attachments/assets/6051cb4e-2c69-404f-adb8-295f1c5113fe)
 
-Inbound visits in 2023 remained below 2019 levels but the number of nights stayed equalled 2018 levels. The number of visits in 2023 was 8.9% down on pre-pandemic levels, while the volume of international visitor nights was higher than 2018. Visitor spend was higher in 2023 than in 2018, but in real terms fell by 10% compared with 2018 when inflation is taken into account.        
+Inbound visits in 2023 remained below 2019 levels but the number of nights stayed equalled 2018 levels. The number of visits in 2023 was 8.9% down on pre-pandemic levels, while the volume of international visitor nights was higher than 2018. Visitor spend was higher in 2023 than in 2018, but in real terms fell by 10% compared with 2018 when inflation is taken into account. 
+
+Similarly to inbound, outbound travel from the UK also shows a decreasing trend. The number of outbound visits drecreased from 90.5 million (2018) to 82.5 million (2023). Although the number of nights decreased, the spend increased around 10 million (18%).
 
 ![image](https://github.com/user-attachments/assets/ebfbf9e2-599d-4924-bd80-5c0f30ccc045)
 
