@@ -74,7 +74,7 @@ Với gần 26,000 lượt lựa chọn, VFR là lí do được lựa chọn nh
 
 Nhìn vào 2 bảng dữ liệu trên, ta có thể thấy rõ ràng hơn sự thay đổi của số đêm cũng như số tiền họ tiêu cho chuyến đi của mình qua 2 lí do được lựa chọn nhiều nhất trong 2 năm 2018 và 2023. Đối với inbound, nhìn chung, trong vòng 5 năm, mọi yếu tố đều có xu hướng giảm. Số đêm trung bình cho 1 chuyến đi holiday giảm nhẹ, kéo theo AVG spend per night và AVG spend per visit cũng giảm theo. Đối với VFR, AVG night per visit và AVG spend per visit cũng có xu hướng giảm nhưng số tiền trung bình chi ra cho 1 đêm lại tăng lên (from 76.93 to 88.57). Mặc số lượng người đến UK để thăm người thân nhiều hơn là mục đích du lịch, nhưng the AVG spend per visit của holiday cao hơn so với VFR và của any purpose.
 
-Trái ngược với inbound, những chỉ số của outbound lại có xu hương tăng lên. Mặc dù AVG night per visit của VFR cao hơn nhiều so với holiday, nhưng số tiền trung bình của UK residents chi cho mỗi đêm du lịch cao gấp 1,8 lần so với VFR. Theo đó, AVG spend per visit của holiday tăng 1.3 lần trong 5 năm và gấp 1.6 lần so với VFR ở năm 2023. 
+Trái ngược với inbound, những chỉ số của outbound lại có xu hương tăng lên. Mặc dù AVG night per visit của VFR cao hơn nhiều so với holiday, nhưng số tiền trung bình của UK residents chi cho mỗi đêm du lịch cao gấp 1,8 lần so với VFR. Theo đó, AVG spend per visit của holiday tăng 1.3 lần trong 5 năm và gấp 1.6 lần so với VFR ở năm 2023. Tương tự như inbound, mặc dù số đêm trung bình của holiday là thấp nhất, nhưng số tiền trung bình của UK residents cao hơn tất cả các lí do khác. Nó cao gấp 1,6 lần so với VFR và gần 1,2 lần so với any purpose trong năm 2023.
 
 Age:
 ![image](https://github.com/user-attachments/assets/ea4022b7-461f-4c0c-86d2-019530cf4e40)
