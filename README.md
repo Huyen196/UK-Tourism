@@ -62,7 +62,7 @@ Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di ch
 
 Inbound visits in 2023 remained below 2018 levels but the number of nights stayed equalled 2018 levels. The number of visits in 2023 was 8.9% down on pre-pandemic levels, while the volume of international visitor nights was higher than 2018. Visitors spent a total of £29.8bn in 2023 (up 13.2% vs 2018 in nominal terms). Visitor spend was higher in 2023 than in 2018, but in real terms fell by 10% compared with 2018 when inflation is taken into account. 
 
-Similarly to inbound, outbound travel from the UK also shows a decreasing trend. The number of outbound visits drecreased from 90.5 million (2018) to 82.5 million (2023). Although the number of nights decreased 856 million nights away from home on a trip in Britain (down 4.9% vs 2018), the spend increased around 10 million (18% vs 2018 in nominal terms.
+Similarly to inbound, outbound travel from the UK also shows a decreasing trend. The number of outbound visits drecreased from 90.5 million (2018) to 82.5 million (2023). Although the number of nights decreased 856 million nights away from home on a trip in Britain (down 4.9% vs 2018), the spend increased around 10 million (18% vs 2018 in nominal terms).
 
 ![image](https://github.com/user-attachments/assets/ebfbf9e2-599d-4924-bd80-5c0f30ccc045)
 
@@ -84,6 +84,8 @@ Country:
 ![image](https://github.com/user-attachments/assets/4175225e-0143-40aa-a438-ae972e065585)
 
 The top inbound market for visits and spend was the USA, which surpassed pre-pandemic visit levels by 14%. Other key markets were France, Germany, the Irish Republic and Spain, but these all remained below 2019 visit levels. In total, visits from Europe accounted for 65% of total inbound visits to the UK.
+
+![image](https://github.com/user-attachments/assets/450a6424-cc5b-4a31-98f8-71a42f0b06ab)
 
 Duration stay:
 
