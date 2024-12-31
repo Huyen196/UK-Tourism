@@ -37,7 +37,7 @@ This dataset contains 150,117 observations for a UK residents and Overseas resid
 
 ![image](https://github.com/user-attachments/assets/63581276-0594-49dd-894f-a019abf9d42c)
 
-Trong vòng 5 năm (từ 2018 đến 2023) tổng số lượt inbound and outbound của UK là 529.32 triệu lượt. Số lượt du khách nước ngoài đến UK (Inbound) khoảng gần 161.78 triệu, trong khi đó số lượng người dân nước Anh đi du lịch (Outbound) gấp đôi số lượng du khách nước ngoài với 367.55 triệu lượt. Có thể thấy được nhu cầu đi du lịch của người dân UK khá cao, có thể thấy rõ ràng trong biểu đồ lỉne graph về số lượng lượt du lịch của cả oversea và UK residents qua từng năm. 
+Over a period of 5 years (from 2018 to 2023), the total number of inbound and outbound trips from the UK amounts to 529.32 million trips. The number of inbound trips to the UK from foreign tourists is approximately 161.78 million, while the number of UK residents traveling outbound is double that of inbound tourists, at 367.55 million trips. The high demand for travel among UK residents is clearly evident in the line graph depicting the number of trips by both overseas and UK residents over each year
 
 The graphs provide information about the number of round trips made by overseas residents traveling to the UK and UK residents traveling to other countries over a span of 6 years from 2018 to 2023. 2018 and 2019 stand out as the two years with the highest number of visits, with 91 million and 93 million visits respectively.
 
@@ -45,25 +45,20 @@ Clearly, the visits of UK residents to other countries were higher and more than
 
 From January to March is a period when people travel less compared to other times of the year. By 2020, the number of travelers was only recorded in the first three months. After March 2020, everyone had to adhere to social distancing measures, so travel occurrences were not documented. In 2021, the situation improved, and the number of travelers slightly increased in the last six months of the year. In 2022 and 2023, the numbers increased rapidly and significantly. Similar to previous years, the majority of travelers are still concentrated in the last six months of the year. The number of travelers in the first and second quarters increased quite rapidly, while there were signs of a decrease in the fourth quarter.
 
-Total spend
-
 ![image](https://github.com/user-attachments/assets/360fd3ef-986b-409c-b382-e2c40bf51026)
 
 
  ![image](https://github.com/user-attachments/assets/2f549b3a-2e4a-4842-85ae-2359db0caa2e)
 
- Doanh thu của ngành du lịch ở UK là 389.59 tỉ bảng anh. Số tiền bao gồm doanh thu từ inbound là 120.12 tỉ và từ outbound là 269.47 tỉ.
+The revenue of the tourism industry in the UK is £389.59 billion. The amount includes revenue from inbound tourism at £120.12 billion and from outbound tourism at £269.47 billion.
 
-Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di chuyển phổ biến nhất là air, tunnel và boat. Có thể thấy được việc di chuyển bằng máy bay được lựa chọn nhiều hơn hẳn những loại phương tiện di chuyển khác, chiếm khoảng 80% đối với du khách nước ngoài và 83% đối với UK residents. Số lượng đi du lịch bằng thuyền và bằng xe chỉ chiếm 1 phần nhỏ (nhỏ hơn hoặc bằng 10%).
+Looking at the chart on the left, we can see that there are three most common types of transportation: air, tunnel, and boat. It is noticeable that air travel is the preferred choice over other modes of transportation, accounting for about 80% for foreign tourists and 83% for UK residents. The number of trips by boat and by car represents only a small portion (less than or equal to 10%).
 
-Ở phần biểu đồ bên phải thể hiện số lượng đi du lịch theo giới tính và loại hình dịch vụ du lịch họ chọn. Có thể dễ dàng thấy được rằng số lượng nam giới có xu hướng đi du lịch nhiều hơn là nữ giới (56% với nam và 44% với nữ).Đa số họ chọn du lịch tự túc nhiều hơn là qua 1 bên thứ 3 (travel agent). Với nam giới, tỉ lệ họ chọn đi du lịch tự túc là 46%, trong khi đó lựa chọn đi du lịch qua các tour du lịch chỉ chiếm có 10%. Điều này cũng xảy ra tương tự với bên nữ giới. Tỉ lệ chọn du lịch tự túc của họ cũng cao hơn hẳn so với du lịch ko tự túc và cao gấp 5,2 lần của nữ giới và 4,6 lần của nam giới.
+In the chart on the right, it illustrates the number of trips by gender and the type of travel service they choose. It is easy to see that the number of male travelers tends to be higher than female travelers (56% for males and 44% for females). Most of them choose independent travel rather than through a third party (travel agent). For males, the proportion choosing independent travel is 46%, while selecting travel through organized tours accounts for only 10%. This also applies similarly to females. Their preference for independent travel is significantly higher compared to non-independent travel, being 5.2 times for females and 4.6 times for males."
 
+![image](https://github.com/user-attachments/assets/1f5f52ed-92fa-4adf-95a0-794f7c36e16d)
 
-Duration stay:
-
-![image](https://github.com/user-attachments/assets/fd72fe87-4ce9-4fbe-834c-74aa2e1a4edf)
-
-Bảng trên hiển thị khoảng thời gian lưu trú của cả inbound và outbound. Phần lớn
+The table above shows the number of visits and total spend for both inbound and outbound trips according to different lengths of stay. Most individuals tend to choose stays within 3 specific time ranges: 1-3 nights, 4-13 nights, and 14-27 nights for their trips. The time range where both inbound and outbound travelers spend the most is 4-13 nights, with overseas visitors spending 58.2 billion (28k visits) and UK residents spending 141.3 billion (31k visits). Although the number of visits for both groups does not differ significantly, the total spend varies considerably (2.4 times for 4-13 nights and nearly 3.5 times for 14-27 nights). Additionally, the number of visits from overseas is 1.5 times that of UK residents, yet the total spend of UK residents is only slightly lower than that of overseas visitors by approximately 1 million.
 
 ![image](https://github.com/user-attachments/assets/6051cb4e-2c69-404f-adb8-295f1c5113fe)
 
@@ -73,17 +68,15 @@ Similarly to inbound, outbound travel from the UK also shows a decreasing trend.
 
 ![image](https://github.com/user-attachments/assets/ebfbf9e2-599d-4924-bd80-5c0f30ccc045)
 
-Nhìn chung,lí do để đi du lịch của oversea residents và UK residents khá giống nhau. 3 lí do chính của cả 2 là: holiday (38.42%), visit relative and friends (VFR) (35.31%) and bussiness (15.87%). 
+In general, the reasons for travel for both overseas residents and UK residents are quite similar. The three main reasons for both are: holiday (38.42%), visiting relatives and friends (VFR) (35.31%), and business (15.87%).
 
-Với gần 26,000 lượt lựa chọn, VFR là lí do được lựa chọn nhiều nhất của oversea residents, kế đến là holiday ( khoảng 24,000) và cuối cùng là bussiness ( khoảng 13,700). Còn với UK residents thì holiday mới là lí do họ du lịch nhiều nhất (khoảng 33,600), tiếp đến là VFR với 27,000 và business là hơn 100,000. Bên cạnh đó cũng có những lí do khác tương tự ở cả 2 bên như: miscellaneous and study. Riêng đối với oversea thì UK cũng là nơi để họ có thể đổi chuyến bay (transit).
+With nearly 26,000 selections, VFR is the most chosen reason for travel by overseas residents, followed by holiday (around 24,000), and finally business (around 13,700). For UK residents, holiday is the primary reason for their travels (around 33,600), followed by VFR with 27,000, and business with over 100,000. Additionally, there are other similar reasons for travel on both sides such as miscellaneous and study. Particularly for overseas residents, the UK serves as a transit point for flight connections.
 
 ![image](https://github.com/user-attachments/assets/b337e7e7-cff5-41dc-a920-2b04344ef562)
 
-Nhìn vào 2 bảng dữ liệu trên, ta có thể thấy rõ ràng hơn sự thay đổi của số đêm cũng như số tiền họ tiêu cho chuyến đi của mình qua 2 lí do được lựa chọn nhiều nhất trong 2 năm 2018 và 2023. Đối với inbound, nhìn chung, trong vòng 5 năm, mọi yếu tố đều có xu hướng giảm. Số đêm trung bình cho 1 chuyến đi holiday giảm nhẹ, kéo theo AVG spend per night và AVG spend per visit cũng giảm theo. Đối với VFR, AVG night per visit và AVG spend per visit cũng có xu hướng giảm nhưng số tiền trung bình chi ra cho 1 đêm lại tăng lên (from 76.93 to 88.57). Mặc số lượng người đến UK để thăm người thân nhiều hơn là mục đích du lịch, nhưng the AVG spend per visit của holiday cao hơn so với VFR và của any purpose.
+Looking at the two tables above, we can better observe the changes in the number of nights and the amount spent for their trips through the two most chosen reasons in the years 2018 and 2023. For inbound trips, overall, over the 5-year period, all factors show a decreasing trend. The average nights for a holiday trip slightly decreased, leading to a decrease in AVG spend per night and AVG spend per visit. Regarding VFR trips, AVG night per visit and AVG spend per visit also show a decreasing trend, but the average amount spent per night increased (from 76.93 to 88.57). Despite more people coming to the UK to visit relatives than for tourism purposes, the AVG spend per visit for holiday is higher than for VFR and for any purpose.
 
-Trái ngược với inbound, những chỉ số của outbound lại có xu hương tăng lên. Mặc dù AVG night per visit của VFR cao hơn nhiều so với holiday, nhưng số tiền trung bình của UK residents chi cho mỗi đêm du lịch cao gấp 1,8 lần so với VFR. Theo đó, AVG spend per visit của holiday tăng 1.3 lần trong 5 năm và gấp 1.6 lần so với VFR ở năm 2023. Tương tự như inbound, mặc dù số đêm trung bình của holiday là thấp nhất, nhưng số tiền trung bình của UK residents cao hơn tất cả các lí do khác. Nó cao gấp 1,6 lần so với VFR và gần 1,2 lần so với any purpose trong năm 2023.
-
-Country:
+In contrast to inbound trips, the indicators for outbound trips show an increasing trend. Although the AVG night per visit for VFR is significantly higher than for holiday, the average amount spent per night by UK residents for each trip is 1.8 times higher than for VFR. Consequently, the AVG spend per visit for holiday increased by 1.3 times over 5 years and was 1.6 times higher than for VFR in 2023. Similarly to inbound trips, although the average number of nights for a holiday trip is the lowest, the average amount spent by UK residents is higher than for all other reasons. It is 1.6 times higher than for VFR and nearly 1.2 times higher than for any purpose in 2023.
 
 ![image](https://github.com/user-attachments/assets/4175225e-0143-40aa-a438-ae972e065585)
 
@@ -91,11 +84,11 @@ The top inbound market for visits and spend was the USA, which surpassed pre-pan
 
 ![image](https://github.com/user-attachments/assets/450a6424-cc5b-4a31-98f8-71a42f0b06ab)
 
-2 bảng trên hiển thị top 15 nước có lượng khách du lịch đến UK và top 15 nước mà UK residents được lựa chọn nhiều nhất của năm 2018 và 2023. 
+The two tables above display the top 15 countries with the highest number of tourists visiting the UK and the top 15 countries most chosen by UK residents for the years 2018 and 2023.
 
-Đối với inbound, USA là đất nước có số lượng đến UK nhiều nhất. Số lượt đến thăm của inbound từ USA là 4.6 million năm 2018 và 4.9 million năm 2023 (tăng 6.5%). Bên cạnh đó, các nước ở Châu Âu chiếm phần lớn số lượt du lịch như France, Germany, Spain, Italy, etc. Tuy nhiên, hầu hết số lượng visits của các nước Châu Âu đều giảm khá mạnh so với năm 2018 như France giảm 13.9%, Italy giảm 23.8%, etc. Thêm vào đó, số lượng du khách từ Châu Á giảm mạnh nhất như "Other Asia" giảm 40% và đặc biệt là China, giảm 60% và nó đã lọt khỏi top 15 nước đến UK nhiều nhất trong năm 2023. Bên cạnh đó, số lượng người dân ở 1 số nước đến UK tăng lên nhanh chóng như Australia (10%), Canada (11%), Swiss (12.5%) và cao nhất là Other Central & South America với 16.7%. Có thể thấy rằng, mặc dù số lượng giảm, Châu Âu vẫn là thị trường có số lượng khách đến với UK nhiều nhất. Ngoài ra, thị trường ở những nước Nam Mỹ cũng là 1 thị trường tiềm năng trong tương lai.
+For inbound travel, the USA is the country with the highest number of visitors to the UK. The number of inbound visits from the USA was 4.6 million in 2018 and 4.9 million in 2023 (an increase of 6.5%). Additionally, European countries account for a significant portion of tourist visits, such as France, Germany, Spain, Italy, etc. However, the majority of visits from European countries have seen significant decreases compared to 2018, with France decreasing by 13.9%, Italy by 23.8%, etc. Furthermore, the number of tourists from Asia has decreased the most, with "Other Asia" decreasing by 40% and notably China decreasing by 60% and dropping out of the top 15 countries with the most visits to the UK in 2023. On the other hand, the number of visitors from some countries to the UK has increased rapidly, such as Australia (10%), Canada (11%), Switzerland (12.5%), and the highest increase being Other Central & South America with 16.7%. Despite the decrease in numbers, Europe remains the market with the highest number of visitors to the UK. Additionally, the market in some South American countries is also a potential market for the future.
 
-Về phần outbound, UK resident có xu hướng đi những nước gần với UK, cụ thể là những nươc Châu Âu và được lựa chọn nhiều nhất là Spain. Tuy nhiên, cũng giống với inbound, số lượng người dân Uk đi du lịch đến những nước Châu Âu đều có xu hướng giảm mạnh. Tuy nhiên, có những nước lại thu hút người dân UK đến du lịch nhiều hơn như Portugal (tăng 15.2%), Greece (37.9%) và tăng mạnh nhất là Turkey (với 82.4%). Ngoài ra, những nước đến từ Asia và Africa đang dần thu hút được nhiều khách UK đến hơn như India (26.7%), Other Africa (7.7%).
+Regarding outbound travel, UK residents tend to visit countries close to the UK, specifically European countries, with Spain being the most popular choice. However, similar to inbound travel, the number of UK residents traveling to European countries has seen a significant decrease. Nevertheless, some countries are attracting more UK residents for travel, such as Portugal (increasing by 15.2%), Greece (37.9%), and the most significant increase is seen in Turkey (82.4%). Additionally, countries from Asia and Africa are gradually attracting more UK visitors, such as India (26.7%) and Other Africa (7.7%).
 
 
 
