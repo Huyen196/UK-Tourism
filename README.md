@@ -90,8 +90,9 @@ For inbound travel, the USA is the country with the highest number of visitors t
 
 Regarding outbound travel, UK residents tend to visit countries close to the UK, specifically European countries, with Spain being the most popular choice. However, similar to inbound travel, the number of UK residents traveling to European countries has seen a significant decrease. Nevertheless, some countries are attracting more UK residents for travel, such as Portugal (increasing by 15.2%), Greece (37.9%), and the most significant increase is seen in Turkey (82.4%). Additionally, countries from Asia and Africa are gradually attracting more UK visitors, such as India (26.7%) and Other Africa (7.7%).
 
+## Conclusion
 
-
+Tourism đã đóng góp 1 phần không nhỏ cho nên kinh thế của UK. UK tourism đang dần hồi phục trở lại sau đại dịch Covid-19. Nó không chỉ thu hút những du khách từ các nước Châu Âu, mà giờ đây còn là du khách từ các nước Châu Á, Châu Phi và Châu Mỹ. 
 
 
 
