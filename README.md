@@ -58,6 +58,11 @@ Nhìn vào biểu đồ bên trái ta có thể thấy rằng có 3 loại di ch
 
 Ở phần biểu đồ bên phải thể hiện số lượng đi du lịch theo giới tính và loại hình dịch vụ du lịch họ chọn. Có thể dễ dàng thấy được rằng số lượng nam giới có xu hướng đi du lịch nhiều hơn là nữ giới (56% với nam và 44% với nữ).Đa số họ chọn du lịch tự túc nhiều hơn là qua 1 bên thứ 3 (travel agent). Với nam giới, tỉ lệ họ chọn đi du lịch tự túc là 46%, trong khi đó lựa chọn đi du lịch qua các tour du lịch chỉ chiếm có 10%. Điều này cũng xảy ra tương tự với bên nữ giới. Tỉ lệ chọn du lịch tự túc của họ cũng cao hơn hẳn so với du lịch ko tự túc và cao gấp 5,2 lần của nữ giới và 4,6 lần của nam giới.
 
+
+Duration stay:
+
+![image](https://github.com/user-attachments/assets/2c3a6704-81cd-40db-8e19-8ae84a6bcbc6)
+
 ![image](https://github.com/user-attachments/assets/6051cb4e-2c69-404f-adb8-295f1c5113fe)
 
 Inbound visits in 2023 remained below 2018 levels but the number of nights stayed equalled 2018 levels. The number of visits in 2023 was 8.9% down on pre-pandemic levels, while the volume of international visitor nights was higher than 2018. Visitors spent a total of £29.8bn in 2023 (up 13.2% vs 2018 in nominal terms). Visitor spend was higher in 2023 than in 2018, but in real terms fell by 10% compared with 2018 when inflation is taken into account. 
@@ -93,9 +98,6 @@ The top inbound market for visits and spend was the USA, which surpassed pre-pan
 
 Về phần outbound, UK resident có xu hướng đi những nước gần với UK, cụ thể là những nươc Châu Âu và được lựa chọn nhiều nhất là Spain. Tuy nhiên, cũng giống với inbound, số lượng người dân Uk đi du lịch đến những nước Châu Âu đều có xu hướng giảm mạnh. Tuy nhiên, có những nước lại thu hút người dân UK đến du lịch nhiều hơn như Portugal (tăng 15.2%), Greece (37.9%) và tăng mạnh nhất là Turkey (với 82.4%). Ngoài ra, những nước đến từ Asia và Africa đang dần thu hút được nhiều khách UK đến hơn như India (26.7%), Other Africa (7.7%).
 
-Duration stay:
-
-![image](https://github.com/user-attachments/assets/2c3a6704-81cd-40db-8e19-8ae84a6bcbc6)
 
 
 
