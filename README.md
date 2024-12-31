@@ -91,7 +91,7 @@ The top inbound market for visits and spend was the USA, which surpassed pre-pan
 
 Đối với inbound, USA là đất nước có số lượng đến UK nhiều nhất. Số lượt đến thăm của inbound từ USA là 4.6 million năm 2018 và 4.9 million năm 2023 (tăng 6.5%). Bên cạnh đó, các nước ở Châu Âu chiếm phần lớn số lượt du lịch như France, Germany, Spain, Italy, etc. Tuy nhiên, hầu hết số lượng visits của các nước Châu Âu đều giảm khá mạnh so với năm 2018 như France giảm 13.9%, Italy giảm 23.8%, etc. Thêm vào đó, số lượng du khách từ Châu Á giảm mạnh nhất như "Other Asia" giảm 40% và đặc biệt là China, giảm 60% và nó đã lọt khỏi top 15 nước đến UK nhiều nhất trong năm 2023. Bên cạnh đó, số lượng người dân ở 1 số nước đến UK tăng lên nhanh chóng như Australia (10%), Canada (11%), Swiss (12.5%) và cao nhất là Other Central & South America với 16.7%. Có thể thấy rằng, mặc dù số lượng giảm, Châu Âu vẫn là thị trường có số lượng khách đến với UK nhiều nhất. Ngoài ra, thị trường ở những nước Nam Mỹ cũng là 1 thị trường tiềm năng trong tương lai.
 
-Về phần outbound, 
+Về phần outbound, UK resident có xu hướng đi những nước gần với UK, cụ thể là những nươc Châu Âu và được lựa chọn nhiều nhất là Spain. Tuy nhiên, cũng giống với inbound, số lượng người dân Uk đi du lịch đến những nước Châu Âu đều có xu hướng giảm mạnh. Tuy nhiên, có những nước lại thu hút người dân UK đến du lịch nhiều hơn như Portugal (tăng 15.2%), Greece (37.9%) và tăng mạnh nhất là Turkey (với 82.4%). Ngoài ra, những nước đến từ Asia và Africa đang dần thu hút được nhiều khách UK đến hơn như India (26.7%), Other Africa (7.7%).
 
 Duration stay:
 
