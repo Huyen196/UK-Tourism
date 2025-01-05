@@ -92,7 +92,13 @@ Regarding outbound travel, UK residents tend to visit countries close to the UK,
 
 ## Conclusion
 
-Tourism đã đóng góp 1 phần không nhỏ cho nên kinh thế của UK. UK tourism đang dần hồi phục trở lại sau đại dịch Covid-19. Nó không chỉ thu hút những du khách từ các nước Châu Âu, mà giờ đây còn là du khách từ các nước Châu Á, Châu Phi và Châu Mỹ. 
+Based on the data provided, the following observations can be made about the tourism industry in the UK:
+- The peak tourist season in the UK is typically from July to September each year, and air travel is the most preferred mode of transportation for tourism.
+- The average duration of a trip ranges from 3 to 13 days, depending on the purpose of the trip.
+- The UK attracts a significant number of tourists from European countries, and in recent years, there has been a rapid increase in the number of tourists from Asian, African, and American countries.
+- Following the Covid-19 pandemic, although the tourism industry has shown signs of recovery, it has not yet reached the levels seen before the outbreak of the disease (total visits have decreased).
+- Holiday and visiting relatives and friends (VFR) are the two most popular reasons for travel, with holiday trips especially generating higher revenue compared to other reasons.
+
 
 
 
