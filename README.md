@@ -5,7 +5,7 @@ Source: Pexels
 
 Tourism is a crucial part of the global economy, generating significant revenue and creating employment opportunities. VisitBritain Director Patricia Yates said: “Tourism is one of the UK's most valuable export industries. It is also a fiercely competitive global industry and these results not only demonstrate Britain’s continued ability to compete internationally for visitors, they are testament to tourism’s importance as a driver of economic growth.
 
-This project aims to use the UK dataset from UK goverment to analyze the tourism situation in the UK over a 5-year period from 2018 to 2023, including the number of visitors, total revenue, average length of stay, etc. Through this analysis, readers can gain a comprehensive overview of the tourism industry and identify key areas for potential development and growth.
+This project aims to use the UK dataset from UK government to analyze the tourism situation in the UK over a 5-year period from 2018 to 2023, including the number of visitors, total revenue, average length of stay, etc. Through this analysis, readers can gain a comprehensive overview of the tourism industry and identify key areas for potential development and growth.
 
 ## Dataset
 
